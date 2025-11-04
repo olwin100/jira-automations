@@ -1,4 +1,4 @@
-#rv-jira-automations
+# rv-jira-automations
 
 Automation scripts using Playwright for Red Ventures Jira.
 
